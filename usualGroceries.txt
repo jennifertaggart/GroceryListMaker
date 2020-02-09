@@ -1,0 +1,13 @@
+// This was the format I was thinking of for the "config" file, but I couldn't read in the file
+// Type your own usual groceries into this file as shown., You must give them an aisle code 
+// according to the scheme below: 
+// 0 produce, 1 international, 2 baking, coffee, and spices, 3 cookies and crackers, 
+// 4 juice and water, 5 canned foods, 6 breakfast things, 7 dairy, 8 frozen, 9 baked goods, 
+// 10 meat, 11 deli
+applesauce tubes, 5
+milk, 7
+eggs, 7
+bananas, 0
+hummus, 11
+coffee, 2
+spaghetti, 1
